@@ -12,6 +12,10 @@ En este caso nos situamos en el rol de una consultora de datos que tiene como cl
 
 La expectativa de vida, es decir la edad promedio que la gente alcanza en un país, suele ser uno de los mejores indicadores de desarrollo y calidad de vida en el mundo. Los lugares donde las personas se mueren más jóvenes tiene una correlación con una baja calidad de vida.
 
+## *EQUIPO DE TRABAJO*
+
+
+
 
 ## *OBJETIVO GENERAL*
 
