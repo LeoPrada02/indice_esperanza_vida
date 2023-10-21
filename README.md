@@ -14,7 +14,7 @@ La expectativa de vida, es decir la edad promedio que la gente alcanza en un pa√
 
 ## *EQUIPO DE TRABAJO*
 
-
+![Equipo](https://github.com/fermprada/indice_esperanza_vida/blob/c9ce58ea96bf65bad859c9a74cf99c92fce0c5a7/Stack%20Tecnologico/EQUIPO%20DE%20TRABAJO.jpg)
 
 
 ## *OBJETIVO GENERAL*
